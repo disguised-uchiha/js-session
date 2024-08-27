@@ -1,0 +1,3 @@
+function print(callback) {
+	callback()
+}
